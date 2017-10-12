@@ -22,9 +22,9 @@ usage: ADSB-view.py [-h] -f FILE
 
 optional arguments:
   -h, --help            show this help message and exit
-    -f FILE, --file FILE  Name of the iq8s file containing the ADS-B message
+  -f FILE, --file FILE  Name of the iq8s file containing the ADS-B message
 
-    [*] Author: 0xBADB01
+[*] Author: 0xBADB01
 
 ```
 
